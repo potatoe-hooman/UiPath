@@ -1,0 +1,9 @@
+ [8u] t8y  [8u] t4  [t4] oi [4u] y [u6]  t6y  [u6] y5|5 5
+8u t8y  [8u]  t4 t4oi4uy6u t6y 6uy5 5 5
+8u  [y8] uy [t8]  4 e  [t4] ew4w6u y6u o6 5y  [t5] uy [t5]  8u  [y8] uy [8t]  4e t4ew4w6u y6u  [6o]  5y  [t5] uyt5
+ [t8] t  [t8] u  [8o] p4 4 p4p [6p] p  [p6] o  [u6] y5|5 y5y
+ [t8]  t [t8] u  [8o] p4 4 p 4p [6p]  p  [6p] o  [6u] y5|yuyt
+ [t8]  t [y8] uy [t8]   [4i]  i  [4u] iu [4y]   [6u] u  [y6] uy [6t]   [5y]  yu5yt5r
+ [t8]  t [y8] uy [t8]   [4i]  i  [4u] iu [4y]   [u6] u  [6y] uy [6t]   [5y] y  [u5] ytr
+ [t8] t [t8] yt [8r]   [4t]  t4tyt [r4]   [6t]  t [t6] yt [r6]  t5 t [t5] iu [y5] u
+ [t8]  t [t8] yt [r8]   [t4]  t [4t] yt [r4]   [t6]  t [t6] yt [r6]   [t5]  ttiuy u
